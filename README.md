@@ -33,6 +33,6 @@
     
 ##
 
-![Snake animation](https://github.com/DaviS1Gomes/DaviS1Gomes/blob/output/github-contribution-grid-snake.svg)
+https://github.com/DaviS1Gomes/DaviS1Gomes/blob/output/github-contribution-grid-snake.svg
 
 
