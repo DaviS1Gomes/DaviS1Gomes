@@ -1,8 +1,8 @@
 
 ## Olá, Seja Bem-Vindo!!
 
-- 🔭 Estudando, Começando: React, ReactNative, TS
-- 🤔 Próxima Linguagem, que pretendo aprender: Java, Python
+- 🔭 Estudando: Java com SpringBoot, ReactNative, TypeScript, 
+- 🤔 Próxima Linguagem, que pretendo aprender: Python
 - 💬 Penso em sempre melhorar!
 - ⚡ Fun fact: Sou vascaino e minha cor favorita é Roxo.
 
